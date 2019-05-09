@@ -1,0 +1,257 @@
+Jose Augusto Giorge
+Rua Antônio Zaki Abucham 102 Ourinhos/SP 19914-150
+CTO: D17-T07 
+User: 42725
+
+
+Manutenção 1 (15/04)- cliente navegando
+problema sinal alto na fibra do cliente
+soluçao refeito os conectores e sinal esta ok
+conexao ok
+
+Manutenção 2 (29/04)- Encontrado o conector fora do adaptador após manutenção realizada na caixa no sábado à tarde
+Colocado anilha
+E recolocado o conector no adaptador a conexão voltoy
+Caixa d17 t07 cheia 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Vilma Aparecida Dias Lavachis
+Rua Antônio Zaki Abucham 151 Ourinhos/SP 19914-150
+CTO: D17-T06
+User: 48922
+
+Manutenção 1 (17/04)- Foi ate casa do cliente estava sem pq onu estava descofigurada foi reconfigurada onu 
+Conexao voltou
+Fibra ok
+Onu ok
+Fonte ok
+Conexao ok
+Teste de velocidade ok.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Gislene Paloni da Silva
+Rua José Corrêa Custódio 443 Ourinhos/SP 19914-070
+CTO: D17-T07 
+User: 38036
+
+Manutenção 1 (18/04)- Foi necessário reativar a onu
+Processo realizado pelo suporte Jorge
+Sinal estava 28 dbm
+Trocado o conector baixado para 25 dbm
+Utilizado um conector upc
+A parks e conector upc e não apc
+Ativado em bridge;
+Colocado dns e mtu no roteador
+
+Manutenção 2 (18/04)- A onu novamente estava desconfigurada 
+Feito a troca da onu
+E do conector colocado um apc ois agra está uma onu com entrada apc
+Configurado rm router 
+Sinal 23 dbbm
+Monitorar situação do cliente
+
+Manutenção 3 (26/04)- Com o auxílio do suporte Jorge e maikon 
+Foi identificado que a pRks que está na residência do cliente foi duplicada em outra porta da olt que acabou colocando o serial na lista blacklist o suporte corrigiu o erro e conseguiu reativar a parks 
+Conexão normalizada seguir monitorando a internet do cliente 
+Evitar de mexer na caixa d17 t07 pois a mesma está cheia e não tem mais porta 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Haroldo Cardoso Garcia
+Avenida Jacinto Ferreira de Sá 1849 Ourinhos/SP 19914-080
+CTO: D17-T14
+User:  15081.sonia 
+
+Manutenção 1 (17/04)- Fibra estava com o sinal 33 dbm
+Baixado o sinal para 23 dbm
+Necessário trocar a parks
+Colocado a parks com o serial final 0c67
+E trocado o conector apc
+Foto dp sinal. Anexo
+Configurado dns e mtu
+Cliente navegando.
+
+Manutenção 2 (20/04)- Foi necessário trocar a parks novamente 
+Está acontecendo da parks sumir do sistema mesmo com sinal na fibra
+Passado a situação para frente para averiguar. 
+Mas não é retrabalho por parte da manutenção anterior 
+
+Manutenção 3 (26/04)- Conector estava quebrado na ONU, refiz mas não pude aproveitar o mesmo. Internet funcionou normalmente.
+
+Manutenção 4 (09/05)-Teste feito
+Cliente sem conexão devido a caixa do mesmo estar queimada
+Cabo up link com água devido a isso queimou o Pac
+Pedido abertura de manutenção de rede
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+SIDNEY FERREIRA MACHADO
+R EZEQUIAS NOGUEIRA DE SOUZA 227 Ourinhos/SP 19900-000
+CTO: D17-T07
+User: 15294.sidney 
+
+Manutenção 1 (17/04)- Foi ate casa do cliente estava sem Conexao pq estava com sinal - 27 bati a rede o problema estava na cauxa no armazenamento d fibra tirei a fibra da caixa refiz conectores sinal abIxou pra - 23
+Conexao ok
+Teste de velocidade ok
+
+Manutenção 2 (23/04)- Hora da Chegada : 09:55hrs
+Hora de Saida : 10:40hrs
+Problema encontrado : Cliente nao logava sinal muito alto na fibra - 48.25
+Solucao :Foi pedido a anilha mais nao tinha na caixa foi verificado a rede ate a caixa encontrado suposto rompimento na caixa e trocado conector verde conexao voltou sinal - 23.67
+
+Manutenção 3 (25/04)- Horário de chegada: 17:00
+Horário de saída: 17:42
+Problema encontrado: spliter estava com sinal -26 e a gpon da parks não acendia
+Solução: havia uma outra porta livre utilizado a mesma sinal: -22
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+ELISANDRA SILVA DE OLIVEIRA
+R ANTONIO ZACK ABUCHAM 308 Ourinhos/SP 19914-150
+CTO: Sem informação
+User: elisandra.oliveira
+Início:9:20
+Termino: 9:50
+
+Manutenção 1 (15/04)- Cliente com sinal alto -49dbm.
+Foi batido rede para indentificar a flat correta pois não avia anilha.
+Cortado um pedaço da flat na cto e refeito conector apc.
+Refeito conector upc no cliente.
+Dia baixou para -24dbm.
+Foi pedido sou suporte para reativar a parks do cliente.
+Conexão.ok
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Marcos Paulo Vidal
+Rua Antônio Zaki Abucham 234 Ourinhos/SP 19914-150
+CTO: D17-T07
+User: 38231 
+
+Manutenção 1 (18/04)- teste feito
+cliente navegando
+problema modem parks nao fixava pon 
+efetuado troca de parks e conexao esta ok
+
+Manutenção 2 (07/05) - Hora da Chegada : 20:05hrs
+Hora de Saida : 20:25hrs
+Problema encontrado : fibra com sinal alto - 26.56 nao logava na parks 1100
+Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baixou - 23.25 e a parks 1100 dele voltou navegar batendo contratado 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+ALESSANDRA SEBASTIANA BATISTA
+R ANTONIO ZACK ABUCHAM 47 Ourinhos/SP 19914-150
+CTO: Informação não encontrada
+User: 15127.alessandra
+
+Manutenção 1 (18/04)- feito teste 
+cliente navegando
+problema sinal alto na fibra refeito conectores e conexao esta ok
+
+Manutenção 2 (27/04)- Início: 16:00
+Termino: 16:40
+Cliente estava com sinal -28dbm e sem navegar.
+Foi refeito conector no cliente e na cto.
+Sinal na cto -24.69dbm - sinal no cliente baixou para - 26.60dbm.
+Foi pedido para o suporte reativar a Parks da cliente.
+Conexão.ok.
+Navegando.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Stefani Carla da Silva Oliveira
+Rua Pedro Fernandes Sândano 182 Ourinhos/SP 19914-200
+CTO: D17-T12
+User: 32714
+Hora da Chegada : 08:27hrs
+Hora de Saida : 11:45hrs
+
+Manutenção 1 (21/04)- Poblema encontrado : Cliente nao logava fibra rompida
+Solucao : foi verificado a fibra e feito um pto e lancada a fibra ate a caixa fusionada
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Josemar Pereira Messias 
+Rua Antonio Zake Abochan 78 Jardim Ourinhos/SP 19901-734
+CTO: D17-T07 
+User: 36674
+
+Manutenção 1 (22/04)- Horário de chegada: 15:30
+Horário de saída: 16:10
+Problema encontrado: fibra com sinal -27
+Solução: refeito o mesmo conector sinal -22
+Conexão ok
+
+Manutenção 2 (24/04)-  Conectores mal feitos, tanto na caixa quanto na ONU. Fibra estava reta e com ponta curta.
+Refeito os dois conectores, reaproveitando o mesmo. Internet funcionou normalmente. 
+
+Manutenção 3 (05/05)- Teste feito
+Cliente navegando
+Problema sinal Alto na fibra
+Solução refeito conector
+Conexão ok
+Sinal ok
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+NATALIE APARECIDA ROSA DAMASCENO
+R SEBASTIAO MIRANDA 320 Vl. Sândano Ourinhos/SP 19900-000
+CTO: D17-T07
+User: natalia.damasceno
+
+Manutenção 1 (27/04)- Cliente navegando 
+Problema sinal alto na fibra 
+Solução refeito conector e sinal ok
+Sinal antigo -56dbm
+Sinal atual -26dbm
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Diego Gama da Silva Jardim 
+R Antônio Zaki Abucham 185 Jd Ouro Fino
+CTO: D17-T07
+User: 34956 
+
+Manutenção 1 (17/04)-  Fibra estava atenuada na caixa. Retirado pedaço com defeito e refeito conector, reconfigurado Parks. Internet funcionou normalmente. 
+
+Manutenção 2 (22/04)-  Hora da Chegada : 8:45hrs
+Hora de Saida : 9:15hrs
+Problema encontrado :Cliente nao logava
+Solucao : Foi verificado a fibra ate a caixa e encontrado a fibra rossada nas voltas da caixa foi cortado e usado a sobra pra fazer um novo conector 
+
+Manutenção 3 (22/04): Hora da Chegada 13:25hrs
+Hora de Saida 13:33
+Problema encontrado : fibra mordida na caixa
+Solucao : foi refeito o mesmo conector pois estava com los refeito e eliminado suposto rompimento conexao voltou 
+
+Manutenção 4 ( 29/04): Ativado a onu parks novamente
+Foi necessário
+Suporte realizado pelo Emerson
+Conexão ok
+Dns ok
+Cliente navegando 
+
