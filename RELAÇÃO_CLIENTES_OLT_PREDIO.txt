@@ -184,7 +184,6 @@ Foi pedido sou suporte para reativar a parks do cliente.
 Conexão.ok
 };
 
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -208,7 +207,6 @@ Hora de Saida : 20:25hrs
 Problema encontrado : fibra com sinal alto - 26.56 nao logava na parks 1100
 Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baixou - 23.25 e a parks 1100 dele voltou navegar batendo contratado.
 };
-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -236,7 +234,6 @@ Foi pedido para o suporte reativar a Parks da cliente.
 Conexão.ok.
 Navegando.
 };
-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -286,7 +283,6 @@ Solução refeito conector
 Conexão ok
 Sinal ok
 };
-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -343,7 +339,6 @@ Conexão ok
 Dns ok
 Cliente navegando 
 };
-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
