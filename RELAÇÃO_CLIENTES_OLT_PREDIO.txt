@@ -157,8 +157,8 @@ Problema encontrado: spliter estava com sinal -26 e a gpon da parks não acendia
 Solução: havia uma outra porta livre utilizado a mesma sinal: -22
 };
 
-Manutenção 4 (11/05)-
-Técnico: {
+Protocolo 506246 - MANUTENÇÃO - RETENÇÃO - FIBRA - SIDNEY FERREIRA MACHADO (11/05)-
+Técnico: MATHEUS VINICIUS ATHAYDE LOPES{
 };
 
 Ultima atualização: 11/05/2019 - 21:24, aguardando finalização de manutenção abertar dia 11/05/219.
@@ -184,6 +184,8 @@ Foi pedido sou suporte para reativar a parks do cliente.
 Conexão.ok
 };
 
+Ultima atualização: 11/05/2019 - 22:19, aparentemente normalizada.
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -207,6 +209,8 @@ Hora de Saida : 20:25hrs
 Problema encontrado : fibra com sinal alto - 26.56 nao logava na parks 1100
 Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baixou - 23.25 e a parks 1100 dele voltou navegar batendo contratado.
 };
+
+Ultima atualização: 11/05/2019 - 22:19, monitorar conexão.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -235,6 +239,8 @@ Conexão.ok.
 Navegando.
 };
 
+Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -250,6 +256,8 @@ Hora de Saida : 11:45hrs
 Poblema encontrado : Cliente nao logava fibra rompida
 Solucao : foi verificado a fibra e feito um pto e lancada a fibra ate a caixa fusionada
 };
+
+Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -284,6 +292,8 @@ Conexão ok
 Sinal ok
 };
 
+Ultima atualização: 11/05/2019 - 22:19, monitorar situação.
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -300,6 +310,8 @@ Solução refeito conector e sinal ok
 Sinal antigo -56dbm
 Sinal atual -26dbm
 };
+
+Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -339,6 +351,8 @@ Conexão ok
 Dns ok
 Cliente navegando 
 };
+
+Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
