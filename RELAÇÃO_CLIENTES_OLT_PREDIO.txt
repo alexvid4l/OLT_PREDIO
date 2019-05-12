@@ -1,96 +1,130 @@
 Jose Augusto Giorge
-Rua AntÙnio Zaki Abucham 102 Ourinhos/SP 19914-150
+Rua Ant√¥nio Zaki Abucham 102 Ourinhos/SP 19914-150
 CTO: D17-T07 
 User: 42725
 
 
-ManutenÁ„o 1 (15/04)- cliente navegando
+Protocolo 488945 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Jose Augusto Giorge	(15/04)- 
+T√©cnico: Welinton Ferreira da Silva{
+cliente navegando
 problema sinal alto na fibra do cliente
-soluÁao refeito os conectores e sinal esta ok
+solu√ßao refeito os conectores e sinal esta ok
 conexao ok
+};
 
-ManutenÁ„o 2 (29/04)- Encontrado o conector fora do adaptador apÛs manutenÁ„o realizada na caixa no s·bado ‡ tarde
+Protocolo 496619 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Jose Augusto Giorge	 (29/04)- 
+T√©cnico: 	Victor Andrade Silva{
+Encontrado o conector fora do adaptador ap√≥s manuten√ß√£o realizada na caixa no s√°bado √† tarde
 Colocado anilha
-E recolocado o conector no adaptador a conex„o voltoy
-Caixa d17 t07 cheia 
+E recolocado o conector no adaptador a conex√£o voltoy
+Caixa d17 t07 cheia
+};
 
+Ultima atualiza√ß√£o: 11/05/2019 - 22:19, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Vilma Aparecida Dias Lavachis
-Rua AntÙnio Zaki Abucham 151 Ourinhos/SP 19914-150
+Rua Ant√¥nio Zaki Abucham 151 Ourinhos/SP 19914-150
 CTO: D17-T06
 User: 48922
 
-ManutenÁ„o 1 (17/04)- Foi ate casa do cliente estava sem pq onu estava descofigurada foi reconfigurada onu 
+Protocolo 490371 - INFORMA√á√ÉO DE MANUTEN√á√ÉO - Vilma Aparecida Dias Lavachis (17/04)- 
+T√©cnico: Rodrigo Pessoni{
+Foi ate casa do cliente estava sem pq onu estava descofigurada foi reconfigurada onu 
 Conexao voltou
 Fibra ok
 Onu ok
 Fonte ok
 Conexao ok
 Teste de velocidade ok.
+};
 
+Ultima atualiza√ß√£o: 11/05/2019 - 22:19, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Gislene Paloni da Silva
-Rua JosÈ CorrÍa CustÛdio 443 Ourinhos/SP 19914-070
+Rua Jos√© Corr√™a Cust√≥dio 443 Ourinhos/SP 19914-070
 CTO: D17-T07 
 User: 38036
 
-ManutenÁ„o 1 (18/04)- Foi necess·rio reativar a onu
+Protocolo 489779 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Gislene Paloni da Silva	 (18/04)- 
+T√©cnico: Victor Andrade Silva{
+Foi necess√°rio reativar a onu
 Processo realizado pelo suporte Jorge
 Sinal estava 28 dbm
 Trocado o conector baixado para 25 dbm
 Utilizado um conector upc
-A parks e conector upc e n„o apc
+A parks e conector upc[azul] e n√£o apc[verde]
 Ativado em bridge;
 Colocado dns e mtu no roteador
+};
 
-ManutenÁ„o 2 (18/04)- A onu novamente estava desconfigurada 
+Protocolo 491658 - RETRABALHO DE MANUTEN√á√ÉO - Gislene Paloni da Silva	(18/04)- 
+T√©cnico: Victor Andrade Silva{
+A onu novamente estava desconfigurada 
 Feito a troca da onu
-E do conector colocado um apc ois agra est· uma onu com entrada apc
+E do conector colocado um apc ois agra est√° uma onu com entrada apc
 Configurado rm router 
 Sinal 23 dbbm
-Monitorar situaÁ„o do cliente
+Monitorar situa√ß√£o do cliente
+};
 
-ManutenÁ„o 3 (26/04)- Com o auxÌlio do suporte Jorge e maikon 
-Foi identificado que a pRks que est· na residÍncia do cliente foi duplicada em outra porta da olt que acabou colocando o serial na lista blacklist o suporte corrigiu o erro e conseguiu reativar a parks 
-Conex„o normalizada seguir monitorando a internet do cliente 
-Evitar de mexer na caixa d17 t07 pois a mesma est· cheia e n„o tem mais porta 
+Protocolo 495534 - RETRABALHO DE MANUTEN√á√ÉO - Gislene Paloni da Silva	(26/04)-
+T√©cnico: Victor Andrade Silva{
+Com o aux√≠lio do suporte Jorge e maikon 
+Foi identificado que a pRks que est√° na resid√™ncia do cliente foi duplicada em outra porta da olt que acabou colocando o serial na lista blacklist o suporte corrigiu o erro e conseguiu reativar a parks 
+Conex√£o normalizada seguir monitorando a internet do cliente 
+Evitar de mexer na caixa d17 t07 pois a mesma est√° cheia e n√£o tem mais porta 
+};
 
+Ultima atualiza√ß√£o: 11/05/2019 - 21:28, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Haroldo Cardoso Garcia
-Avenida Jacinto Ferreira de S· 1849 Ourinhos/SP 19914-080
+Avenida Jacinto Ferreira de S√° 1849 Ourinhos/SP 19914-080
 CTO: D17-T14
 User:  15081.sonia 
 
-ManutenÁ„o 1 (17/04)- Fibra estava com o sinal 33 dbm
+Protocolo 489659 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Haroldo Cardoso Garcia (17/04)- 
+T√©cnica: Victor Andrade Silva{
+Fibra estava com o sinal 33 dbm
 Baixado o sinal para 23 dbm
-Necess·rio trocar a parks
+Necess√°rio trocar a parks
 Colocado a parks com o serial final 0c67
 E trocado o conector apc
 Foto dp sinal. Anexo
 Configurado dns e mtu
 Cliente navegando.
+};
 
-ManutenÁ„o 2 (20/04)- Foi necess·rio trocar a parks novamente 
-Est· acontecendo da parks sumir do sistema mesmo com sinal na fibra
-Passado a situaÁ„o para frente para averiguar. 
-Mas n„o È retrabalho por parte da manutenÁ„o anterior 
+Protocolo 491786 - RETRABALHO DE MANUTEN√á√ÉO - Haroldo Cardoso Garcia (20/04)- 
+T√©cnico: Victor Andrade Silva{
+Foi necess√°rio trocar a parks novamente 
+Est√° acontecendo da parks sumir do sistema mesmo com sinal na fibra
+Passado a situa√ß√£o para frente para averiguar. 
+Mas n√£o √© retrabalho por parte da manuten√ß√£o anterior 
+};
 
-ManutenÁ„o 3 (26/04)- Conector estava quebrado na ONU, refiz mas n„o pude aproveitar o mesmo. Internet funcionou normalmente.
+Protocolo 495570 - RETRABALHO DE MANUTEN√á√ÉO - Haroldo Cardoso Garcia (26/04)- 
+T√©cnico: Patrick Emanuel Souza Pedracini{
+Conector estava quebrado na ONU, refiz mas n√£o pude aproveitar o mesmo. Internet funcionou normalmente.
+};
 
-ManutenÁ„o 4 (09/05)-Teste feito
-Cliente sem conex„o devido a caixa do mesmo estar queimada
-Cabo up link com ·gua devido a isso queimou o Pac
-Pedido abertura de manutenÁ„o de rede
+Protocolo 503383 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Haroldo Cardoso Garcia (09/05)-
+T√©cnico: Welinton Ferreira da Silva{
+Teste feito
+Cliente sem conex√£o devido a caixa do mesmo estar queimada
+Cabo up link com √°gua devido a isso queimou o Pac
+Pedido abertura de manuten√ß√£o de rede
+};
 
+Ultima atualiza√ß√£o: 11/05/2019 - 22:20, aparentemente normalizada (ultima manuten√ß√£o aberto tarefa de rede, nada diretamente relacionado a conex√£o do cliente).
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,57 +134,80 @@ R EZEQUIAS NOGUEIRA DE SOUZA 227 Ourinhos/SP 19900-000
 CTO: D17-T07
 User: 15294.sidney 
 
-ManutenÁ„o 1 (17/04)- Foi ate casa do cliente estava sem Conexao pq estava com sinal - 27 bati a rede o problema estava na cauxa no armazenamento d fibra tirei a fibra da caixa refiz conectores sinal abIxou pra - 23
+Protocolo 490381 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - SIDNEY FERREIRA MACHADO	(17/04)- 
+T√©cnico: Rodrigo Pessoni{
+Foi ate casa do cliente estava sem Conexao pq estava com sinal - 27 bati a rede o problema estava na cauxa no armazenamento d fibra tirei a fibra da caixa refiz conectores sinal abIxou pra - 23
 Conexao ok
 Teste de velocidade ok
+};
 
-ManutenÁ„o 2 (23/04)- Hora da Chegada : 09:55hrs
+Protocolo 492387 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - SIDNEY FERREIRA MACHADO	(23/04)-
+T√©cnico: VALDECI BENTO DE SOUZA JUNIOR{
+Hora da Chegada : 09:55hrs
 Hora de Saida : 10:40hrs
 Problema encontrado : Cliente nao logava sinal muito alto na fibra - 48.25
 Solucao :Foi pedido a anilha mais nao tinha na caixa foi verificado a rede ate a caixa encontrado suposto rompimento na caixa e trocado conector verde conexao voltou sinal - 23.67
+};
 
-ManutenÁ„o 3 (25/04)- Hor·rio de chegada: 17:00
-Hor·rio de saÌda: 17:42
-Problema encontrado: spliter estava com sinal -26 e a gpon da parks n„o acendia
-SoluÁ„o: havia uma outra porta livre utilizado a mesma sinal: -22
+Protocolo 494675 - RETRABALHO DE MANUTEN√á√ÉO - SIDNEY FERREIRA MACHADO	(25/04)- 
+T√©cnico: Alexsandro de Sousa Borges{
+Hor√°rio de chegada: 17:00
+Hor√°rio de sa√≠da: 17:42
+Problema encontrado: spliter estava com sinal -26 e a gpon da parks n√£o acendia
+Solu√ß√£o: havia uma outra porta livre utilizado a mesma sinal: -22
+};
 
+Manuten√ß√£o 4 (11/05)-
+T√©cnico: {
+};
+
+Ultima atualiza√ß√£o: 11/05/2019 - 21:24, aguardando finaliza√ß√£o de manuten√ß√£o abertar dia 11/05/219.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 ELISANDRA SILVA DE OLIVEIRA
 R ANTONIO ZACK ABUCHAM 308 Ourinhos/SP 19914-150
-CTO: Sem informaÁ„o
+CTO: Sem informa√ß√£o
 User: elisandra.oliveira
-InÌcio:9:20
+In√≠cio:9:20
 Termino: 9:50
 
-ManutenÁ„o 1 (15/04)- Cliente com sinal alto -49dbm.
-Foi batido rede para indentificar a flat correta pois n„o avia anilha.
-Cortado um pedaÁo da flat na cto e refeito conector apc.
+Protocolo 488815 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - ELISANDRA SILVA DE OLIVEIRA	(15/04)-
+T√©cnico: DANILO LOZOVOI{
+Cliente com sinal alto -49dbm.
+Foi batido rede para indentificar a flat correta pois n√£o avia anilha.
+Cortado um peda√ßo da flat na cto e refeito conector apc.
 Refeito conector upc no cliente.
 Dia baixou para -24dbm.
 Foi pedido sou suporte para reativar a parks do cliente.
-Conex„o.ok
+Conex√£o.ok
+};
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Marcos Paulo Vidal
-Rua AntÙnio Zaki Abucham 234 Ourinhos/SP 19914-150
+Rua Ant√¥nio Zaki Abucham 234 Ourinhos/SP 19914-150
 CTO: D17-T07
 User: 38231 
 
-ManutenÁ„o 1 (18/04)- teste feito
+Protocolo 490457 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Marcos Paulo Vidal (18/04)-
+T√©cnico: Welinton Ferreira da Silva{
+teste feito
 cliente navegando
 problema modem parks nao fixava pon 
 efetuado troca de parks e conexao esta ok
+};
 
-ManutenÁ„o 2 (07/05) - Hora da Chegada : 20:05hrs
+Protocolo 501877 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Marcos Paulo Vidal (07/05)-
+T√©cnico: VALDECI BENTO DE SOUZA JUNIOR{
+Hora da Chegada : 20:05hrs
 Hora de Saida : 20:25hrs
 Problema encontrado : fibra com sinal alto - 26.56 nao logava na parks 1100
-Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baixou - 23.25 e a parks 1100 dele voltou navegar batendo contratado 
+Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baixou - 23.25 e a parks 1100 dele voltou navegar batendo contratado.
+};
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -158,36 +215,44 @@ Solucao : Foi verificado a fibra ate a caixa refeito conector verde e sinal baix
 
 ALESSANDRA SEBASTIANA BATISTA
 R ANTONIO ZACK ABUCHAM 47 Ourinhos/SP 19914-150
-CTO: InformaÁ„o n„o encontrada
+CTO: Informa√ß√£o n√£o encontrada
 User: 15127.alessandra
 
-ManutenÁ„o 1 (18/04)- feito teste 
+Protocolo 491128 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - ALESSANDRA SEBASTIANA BATISTA	(18/04)-
+T√©cnico: Welinton Ferreira da Silva{
+feito teste 
 cliente navegando
 problema sinal alto na fibra refeito conectores e conexao esta ok
+};
 
-ManutenÁ„o 2 (27/04)- InÌcio: 16:00
+Protocolo 495571 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - ALESSANDRA SEBASTIANA BATISTA	(27/04)- 
+T√©cnico: DANILO LOZOVOI{
+In√≠cio: 16:00
 Termino: 16:40
 Cliente estava com sinal -28dbm e sem navegar.
 Foi refeito conector no cliente e na cto.
 Sinal na cto -24.69dbm - sinal no cliente baixou para - 26.60dbm.
 Foi pedido para o suporte reativar a Parks da cliente.
-Conex„o.ok.
+Conex√£o.ok.
 Navegando.
+};
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Stefani Carla da Silva Oliveira
-Rua Pedro Fernandes S‚ndano 182 Ourinhos/SP 19914-200
+Rua Pedro Fernandes S√¢ndano 182 Ourinhos/SP 19914-200
 CTO: D17-T12
 User: 32714
+
+Protocolo 491697 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Stefani Carla da Silva Oliveira	 (21/04)- 
+T√©cnico: VALDECI BENTO DE SOUZA JUNIOR{
 Hora da Chegada : 08:27hrs
 Hora de Saida : 11:45hrs
-
-ManutenÁ„o 1 (21/04)- Poblema encontrado : Cliente nao logava fibra rompida
+Poblema encontrado : Cliente nao logava fibra rompida
 Solucao : foi verificado a fibra e feito um pto e lancada a fibra ate a caixa fusionada
-
+};
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -197,61 +262,89 @@ Rua Antonio Zake Abochan 78 Jardim Ourinhos/SP 19901-734
 CTO: D17-T07 
 User: 36674
 
-ManutenÁ„o 1 (22/04)- Hor·rio de chegada: 15:30
-Hor·rio de saÌda: 16:10
+Protocolo 491918 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Josemar Pereira Messias	(22/04)-
+T√©cnico: Alexsandro de Sousa Borges{
+Hor√°rio de chegada: 15:30
+Hor√°rio de sa√≠da: 16:10
 Problema encontrado: fibra com sinal -27
-SoluÁ„o: refeito o mesmo conector sinal -22
-Conex„o ok
+Solu√ß√£o: refeito o mesmo conector sinal -22
+Conex√£o ok
+};
 
-ManutenÁ„o 2 (24/04)-  Conectores mal feitos, tanto na caixa quanto na ONU. Fibra estava reta e com ponta curta.
+Protocolo 493810 - RETRABALHO DE MANUTEN√á√ÉO - Josemar Pereira Messias	(24/04)-  
+T√©cnico: Patrick Emanuel Souza Pedracini{
+Conectores mal feitos, tanto na caixa quanto na ONU. Fibra estava reta e com ponta curta.
 Refeito os dois conectores, reaproveitando o mesmo. Internet funcionou normalmente. 
+};
 
-ManutenÁ„o 3 (05/05)- Teste feito
+Protocolo 501065 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Josemar Pereira Messias	(05/05)-
+T√©cnico: Welinton Ferreira da Silva{
+Teste feito
 Cliente navegando
 Problema sinal Alto na fibra
-SoluÁ„o refeito conector
-Conex„o ok
+Solu√ß√£o refeito conector
+Conex√£o ok
 Sinal ok
+};
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 NATALIE APARECIDA ROSA DAMASCENO
-R SEBASTIAO MIRANDA 320 Vl. S‚ndano Ourinhos/SP 19900-000
+R SEBASTIAO MIRANDA 320 Vl. S√¢ndano Ourinhos/SP 19900-000
 CTO: D17-T07
 User: natalia.damasceno
 
-ManutenÁ„o 1 (27/04)- Cliente navegando 
+Protocolo 495478 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - NATALIE APARECIDA ROSA DAMASCENO (27/04)-
+T√©cnico: Welinton Ferreira da Silva{
+Cliente navegando 
 Problema sinal alto na fibra 
-SoluÁ„o refeito conector e sinal ok
+Solu√ß√£o refeito conector e sinal ok
 Sinal antigo -56dbm
 Sinal atual -26dbm
+};
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 Diego Gama da Silva Jardim 
-R AntÙnio Zaki Abucham 185 Jd Ouro Fino
+R Ant√¥nio Zaki Abucham 185 Jd Ouro Fino
 CTO: D17-T07
 User: 34956 
 
-ManutenÁ„o 1 (17/04)-  Fibra estava atenuada na caixa. Retirado pedaÁo com defeito e refeito conector, reconfigurado Parks. Internet funcionou normalmente. 
+Protocolo 490196 - MANUTEN√á√ÉO - RESIDENCIAL - FIBRA - Diego Gama da Silva Jardim (17/04)- 
+T√©cnico: Patrick Emanuel Souza Pedracini{
+Fibra estava atenuada na caixa. Retirado peda√ßo com defeito e refeito conector, reconfigurado Parks. Internet funcionou normalmente. 
+};
 
-ManutenÁ„o 2 (22/04)-  Hora da Chegada : 8:45hrs
+Protocolo 491449 - RETRABALHO DE MANUTEN√á√ÉO - Diego Gama da Silva Jardim (22/04)- 
+T√©cnico: VALDECI BENTO DE SOUZA JUNIOR{
+Hora da Chegada : 8:45hrs
 Hora de Saida : 9:15hrs
 Problema encontrado :Cliente nao logava
 Solucao : Foi verificado a fibra ate a caixa e encontrado a fibra rossada nas voltas da caixa foi cortado e usado a sobra pra fazer um novo conector 
+};
 
-ManutenÁ„o 3 (22/04): Hora da Chegada 13:25hrs
+Protocolo 492560 - RETRABALHO DE MANUTEN√á√ÉO - Diego Gama da Silva Jardim (22/04): 
+T√©cnico: VALDECI BENTO DE SOUZA JUNIOR{
+Hora da Chegada 13:25hrs
 Hora de Saida 13:33
 Problema encontrado : fibra mordida na caixa
 Solucao : foi refeito o mesmo conector pois estava com los refeito e eliminado suposto rompimento conexao voltou 
+};
 
-ManutenÁ„o 4 ( 29/04): Ativado a onu parks novamente
-Foi necess·rio
+Protocolo 495540 - RETRABALHO DE MANUTEN√á√ÉO - Diego Gama da Silva Jardim (29/04):
+T√©cnico: Victor Andrade Silva{
+Ativado a onu parks novamente
+Foi necess√°rio
 Suporte realizado pelo Emerson
-Conex„o ok
+Conex√£o ok
 Dns ok
 Cliente navegando 
+};
 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Aparentemente rede foi normalizada - 11/05-22:31 (Monitorar retrabalho de manuten√ß√£o).
