@@ -358,7 +358,7 @@ Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 
 FARMACIA SANTA MARIA DE MARILIA LTDA - EPP
-Avenida Doutor Altino Arantes - até 344/345, 92, CENTRO - Ourinhos/SP. CEP: 19900--030
+Avenida Doutor Altino Arantes - até 344/345, 92, CENTRO
 CTO: D23-T04
 User: 20582.drogalar
 
@@ -371,5 +371,23 @@ Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Renato Clemente Pereira
+Rua Wilson de Souza 284 Jardim Ouro Fino 
+CTO: D17-T08
+User: 42888
 
-Aparentemente rede foi normalizada - 11/05-22:31 (Monitorar retrabalho de manutenção).
+LUCI MARA IZIDORO DE SOUZA 
+Rua Wilson de Souza 214 Jardim Ouro Fino 
+CTO: D17-T08
+User: 50459
+
+WILLIAN VITOR ALEXANDRE
+Rua Wilson de Souza 380 Jd. Ouro Fino
+CTO: D17-T08
+User: 16345.willian 
+
+Adicionado 14/05 - 16:08, com quedas.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
