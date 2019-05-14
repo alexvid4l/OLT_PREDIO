@@ -356,4 +356,20 @@ Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+
+FARMACIA SANTA MARIA DE MARILIA LTDA - EPP
+Avenida Doutor Altino Arantes - até 344/345, 92, CENTRO - Ourinhos/SP. CEP: 19900--030
+CTO: D23-T04
+User: 20582.drogalar
+
+Protocolo 506578 - Manutenção Empresarial - DROGALAR -
+Técnico: {
+};
+
+
+Ultima atualização: 11/05/2019 - 22:37, aparentemente normalizada.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Aparentemente rede foi normalizada - 11/05-22:31 (Monitorar retrabalho de manutenção).
