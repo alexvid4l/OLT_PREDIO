@@ -159,9 +159,10 @@ Solução: havia uma outra porta livre utilizado a mesma sinal: -22
 
 Protocolo 506246 - MANUTENÇÃO - RETENÇÃO - FIBRA - SIDNEY FERREIRA MACHADO (11/05)-
 Técnico: MATHEUS VINICIUS ATHAYDE LOPES{
+caixa com sinal alto, reportado para o suporte porém os mesmos nao acharam necessario abrir chamado pra caixa. 
 };
 
-Ultima atualização: 11/05/2019 - 21:24, aguardando finalização de manutenção aberta dia 11/05/219.
+Ultima atualização: 16/05/2019 - 15:54.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -292,7 +293,14 @@ Conexão ok
 Sinal ok
 };
 
-Ultima atualização: 11/05/2019 - 22:19, monitorar situação.
+Protocolo 506384 - MANUTENÇÃO - RESIDENCIAL - FIBRA - Josemar Pereira Messias (14/05)-
+Técnico: Victor Andrade Silva {
+Necessário reativar a onu parks novamente
+Everaldo realizou a ativação
+Conexão normalizada 
+};
+
+Ultima atualização: 16/05/2019 - 15:58, monitorar situação.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
